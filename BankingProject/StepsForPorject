@@ -1,0 +1,13 @@
+
+
+
+
+Account.java  -> create variables in entity
+Repo.java		-> expand jparepo
+DTO.java		-> create variables for mapping
+Mapper.java    -> jps to dto dto to jpa
+Service.java	-> create method for what you want to do (create acc , deposit , delete)
+ServiceImpl.java -> implement service class and create obj of repo with @autowired and do in class with mapper
+controller   	-> give rest api's
+
+
